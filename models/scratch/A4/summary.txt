@@ -37,12 +37,12 @@ Trainable params: 3,608,099
 Non-trainable params: 0
 _________________________________________________________________
 
-Learning Rate: 0.0003
+Learning Rate: 5e-05
 Loss Function: categorical_crossentropy
 Dropout Rate: 0.5
 Batch Size: 50
-Time Train Start: 2020-07-02 20:14:33.058140
-Time Train End: 2020-07-02 21:59:02.601794
-Time Delta: 6269.543654
-Train Accuracy: 0.9991880655288696
-Test Accuracy: 0.9675599336624146
+Time Train Start: 2020-06-28 14:47:42.224051
+Time Train End: 2020-06-28 16:56:55.449858
+Time Delta: 7753.225807
+Train Accuracy: 0.999963104724884
+Test Accuracy: 0.9693229794502258
